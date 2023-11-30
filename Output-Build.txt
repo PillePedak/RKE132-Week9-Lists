@@ -1,0 +1,8 @@
+﻿Build started...
+1>------ Build started: Project: Week9Lists, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Users\pedak\Documents\Visual Studio 2022\Week9Lists\Week9Lists\Program.cs(44,13,44,30): warning CS8321: The local function 'ShowItemsFromList' is declared but never used
+1>Week9Lists -> C:\Users\pedak\Documents\Visual Studio 2022\Week9Lists\Week9Lists\bin\Debug\net6.0\Week9Lists.dll
+1>Done building project "Week9Lists.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 00:01 and took 00.710 seconds ==========
